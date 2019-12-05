@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "username": "Roberto",
+        "password": "123456",
+        "age": 40
+    },
+    null,
+    null,
+    {
+        "id": 4,
+        "username": "Alba",
+        "password": "123456",
+        "email": "g@m.com",
+        "age": 40
+    },
+    {
+        "id": 5
+    },
+    {
+        "id": 6,
+        "username": "Alba",
+        "password": "123456",
+        "email": "g@m.com",
+        "age": 40
+    },
+    {
+        "id": 7,
+        "username": "Alba",
+        "password": "123456",
+        "email": "gm.com",
+        "age": 40
+    },
+    {
+        "id": 8,
+        "username": "Alba",
+        "password": "123456",
+        "email": "g@gcom",
+        "age": 40
+    }
+]
